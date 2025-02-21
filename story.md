@@ -1,9 +1,3 @@
-<!doctype html>
-<html>
-  <head>
-    <title> Document title </title>
-  </head> 
-  <body>
 January 28, 2019 Issue
 <h1>Does Journalism Have a Future?</h1>
 <p>In an era of social media and fake news, journalists who have survived the print plunge have new foes to face.</p>
